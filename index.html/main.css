@@ -1,0 +1,17 @@
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+
+.hero {
+	padding: 250px 0;
+	margin: 30px;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  background-image: url("./foto's en video's html/20180902/IMG_1514.jpg");
+  background-size: cover;
+  color: #ffffff;
+}
+
